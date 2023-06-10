@@ -134,7 +134,7 @@ Media queries tablet
 - Siempre he sido una persona curiosa y con ganas de aprender cosas nuevas. De ahí que mi vida haya dado tantas vueltas... Al inicio de mis estudios en mi mente me visualizaba siendo un gran microbiólogo, de ahí  que iniciase el grado de Biología. Hasta que descubrí el mundo de la danza y ahí fue cuando me di cuenta que debía enfocarme en trabajos creativos.
 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://proyecto1-4jqe.vercel.app/]
 
 Presentation Link: 
 [https://www.canva.com/design/DAFlYXhJYQo/HavbvFjKZqS-tJERBmR33g/view?utm_content=DAFlYXhJYQo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
