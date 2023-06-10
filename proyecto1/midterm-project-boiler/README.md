@@ -136,7 +136,8 @@ Media queries tablet
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-Presentation Link: [Insert here your presentation link](insert-link-here)
+Presentation Link: 
+[https://www.canva.com/design/DAFlYXhJYQo/HavbvFjKZqS-tJERBmR33g/view?utm_content=DAFlYXhJYQo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
